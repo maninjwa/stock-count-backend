@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@aws-amplify/backend": "^1.14.3",
+    "@aws-amplify/backend": "^1.15.0",
     "@aws-amplify/backend-cli": "^1.4.12",
     "aws-cdk": "^2.1004.0",
     "aws-cdk-lib": "^2.180.0",
